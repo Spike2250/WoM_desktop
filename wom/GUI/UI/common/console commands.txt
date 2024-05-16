@@ -1,0 +1,34 @@
+poetry run pyside6-uic wom/GUI/UI/common/User_main_menu.ui > wom/GUI/PY/User_main_menu.py
+poetry run pyside6-uic wom/GUI/UI/common/Registration.ui > wom/GUI/PY/Registration.py
+poetry run pyside6-uic wom/GUI/UI/common/Login.ui > wom/GUI/PY/Login.py
+poetry run pyside6-uic wom/GUI/UI/common/drugs_dictionary.ui > wom/GUI/PY/drugs_dictionary.py
+poetry run pyside6-uic wom/GUI/UI/common/load_arch_data.ui > wom/GUI/PY/load_arch_data.py
+poetry run pyside6-uic wom/GUI/UI/common/PatientPassportData.ui > wom/GUI/PY/PatientPassportData.py
+poetry run pyside6-uic wom/GUI/UI/common/AddRelative.ui > wom/GUI/PY/AddRelative.py
+poetry run pyside6-uic wom/GUI/UI/common/StObj_admition.ui > wom/GUI/PY/StObj_admition.py
+poetry run pyside6-uic wom/GUI/UI/common/StObj_discharge.ui > wom/GUI/PY/StObj_discharge.py
+poetry run pyside6-uic wom/GUI/UI/common/St_Neurology.ui > wom/GUI/PY/St_Neurology.py
+poetry run pyside6-uic wom/GUI/UI/common/Diagnosis.ui > wom/GUI/PY/Diagnosis.py
+poetry run pyside6-uic wom/GUI/UI/common/Discharge_details.ui > wom/GUI/PY/Discharge_details.py
+poetry run pyside6-uic wom/GUI/UI/common/icf.ui > wom/GUI/PY/Icf.py
+poetry run pyside6-uic wom/GUI/UI/common/Laboratory_data.ui > wom/GUI/PY/Laboratory_data.py
+poetry run pyside6-uic wom/GUI/UI/common/Almanac.ui > wom/GUI/PY/Almanac.py
+poetry run pyside6-uic wom/GUI/UI/common/Entry.ui > wom/GUI/PY/Entry.py
+
+
+python -m PyQt6.uic.pyuic -x User_main_menu.ui -o User_main_menu.py
+python -m PyQt6.uic.pyuic -x Registration.ui -o Registration.py
+python -m PyQt6.uic.pyuic -x Login.ui -o Login.py
+python -m PyQt6.uic.pyuic -x drugs_dictionary.ui -o drugs_dictionary.py
+python -m PyQt6.uic.pyuic -x load_arch_data.ui -o load_arch_data.py
+python -m PyQt6.uic.pyuic -x PatientPassportData.ui -o PatientPassportData.py
+python -m PyQt6.uic.pyuic -x AddRelative.ui -o AddRelative.py
+python -m PyQt6.uic.pyuic -x StObj_admition.ui -o StObj_admition.py
+python -m PyQt6.uic.pyuic -x StObj_discharge.ui -o StObj_discharge.py
+python -m PyQt6.uic.pyuic -x St_Neurology.ui -o St_Neurology.py
+python -m PyQt6.uic.pyuic -x Diagnosis.ui -o Diagnosis.py
+python -m PyQt6.uic.pyuic -x Discharge_details.ui -o Discharge_details.py
+python -m PyQt6.uic.pyuic -x icf.ui -o Icf.py
+python -m PyQt6.uic.pyuic -x Laboratory_data.ui -o Laboratory_data.py
+python -m PyQt6.uic.pyuic -x Almanac.ui -o Almanac.py
+python -m PyQt6.uic.pyuic -x Entry.ui -o Entry.py

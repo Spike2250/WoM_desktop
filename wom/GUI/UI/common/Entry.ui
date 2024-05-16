@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Entry</class>
+ <widget class="QWidget" name="Entry">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>857</width>
+    <height>317</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(238, 238, 238, 255), stop:1 rgba(190, 190, 190, 255));
+font-family: Roboto;</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QFrame" name="main_frame">
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <property name="spacing">
+       <number>5</number>
+      </property>
+      <property name="leftMargin">
+       <number>10</number>
+      </property>
+      <property name="rightMargin">
+       <number>10</number>
+      </property>
+      <property name="bottomMargin">
+       <number>10</number>
+      </property>
+      <item>
+       <widget class="QLabel" name="label">
+        <property name="font">
+         <font>
+          <family>Roboto</family>
+          <pointsize>36</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: none;
+color: rgba(112, 38, 50, 190);</string>
+        </property>
+        <property name="text">
+         <string>World of Medicine</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="font">
+         <font>
+          <family>Roboto</family>
+          <pointsize>20</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: none;
+color: rgba(112, 38, 50, 190);</string>
+        </property>
+        <property name="text">
+         <string>Выберите рабочее место</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <property name="spacing">
+         <number>50</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pushButton_omr">
+          <property name="styleSheet">
+           <string notr="true">QPushButton {
+background-color: rgba(50, 98, 115, 190);
+font-size: 11pt;
+color: White;
+border: None;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+QPushButton::hover {
+background-color: rgba(50, 98, 115, 255);
+border: 2px solid rgba(92, 158, 173, 255);
+}
+
+QPushButton::pressed {
+background-color: rgba(92, 158, 173, 255);
+border: 1px solid rgba(255, 255, 255, 255);
+}
+
+QPushButton::disabled {
+background-color:  rgba(50, 98, 115, 40);
+border: 1px solid rgba(50, 98, 115, 150);
+color:  rgba(50, 98, 115, 150);
+}</string>
+          </property>
+          <property name="text">
+           <string>Отделение медицинской реабилитации
+рабочее место врача ФРМ</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pushButton_bta">
+          <property name="styleSheet">
+           <string notr="true">QPushButton {
+background-color: rgba(50, 98, 115, 190);
+font-size: 11pt;
+color: White;
+border: None;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+QPushButton::hover {
+background-color: rgba(50, 98, 115, 255);
+border: 2px solid rgba(92, 158, 173, 255);
+}
+
+QPushButton::pressed {
+background-color: rgba(92, 158, 173, 255);
+border: 1px solid rgba(255, 255, 255, 255);
+}
+
+QPushButton::disabled {
+background-color:  rgba(50, 98, 115, 40);
+border: 1px solid rgba(50, 98, 115, 150);
+color:  rgba(50, 98, 115, 150);
+}</string>
+          </property>
+          <property name="text">
+           <string>Кабинет
+ботулинотерапевта</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Fixed</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>35</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="font">
+         <font>
+          <family>Roboto</family>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: none;
+color: rgba(112, 38, 50, 190);</string>
+        </property>
+        <property name="text">
+         <string>Прочие материалы</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_almanac">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+background-color: rgba(50, 98, 115, 190);
+font-size: 11pt;
+color: White;
+border: None;
+padding: 10px;
+}
+
+QPushButton::hover {
+background-color: rgba(50, 98, 115, 255);
+border: 2px solid rgba(92, 158, 173, 255);
+}
+
+QPushButton::pressed {
+background-color: rgba(92, 158, 173, 255);
+border: 1px solid rgba(255, 255, 255, 255);
+}
+
+QPushButton::disabled {
+background-color:  rgba(50, 98, 115, 40);
+border: 1px solid rgba(50, 98, 115, 150);
+color:  rgba(50, 98, 115, 150);
+}</string>
+        </property>
+        <property name="text">
+         <string>Справочник лекарственных средств</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

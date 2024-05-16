@@ -1,0 +1,12 @@
+poetry run pyside6-uic wom/GUI/UI/bta/bta_AddNewPatient.ui > wom/GUI/PY/bta_AddNewPatient.py
+poetry run pyside6-uic wom/GUI/UI/bta/bta_MainMenu.ui > wom/GUI/PY/bta_MainMenu.py
+poetry run pyside6-uic wom/GUI/UI/bta/bta_PatientCard.ui > wom/GUI/PY/bta_PatientCard.py
+poetry run pyside6-uic wom/GUI/UI/bta/bta_Protocol.ui > wom/GUI/PY/bta_Protocol.py
+
+poetry run pyside6-rcc wom/GUI/UI/res_main.qrc -o res_main_rc.py
+
+
+python -m PyQt6.uic.pyuic -x bta_AddNewPatient.ui -o bta_AddNewPatient.py
+python -m PyQt6.uic.pyuic -x bta_MainMenu.ui -o bta_MainMenu.py
+python -m PyQt6.uic.pyuic -x bta_PatientCard.ui -o bta_PatientCard.py
+python -m PyQt6.uic.pyuic -x bta_Protocol.ui -o bta_Protocol.py

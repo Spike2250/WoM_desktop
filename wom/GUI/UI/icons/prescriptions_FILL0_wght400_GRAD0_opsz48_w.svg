@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="prescriptions_FILL0_wght400_GRAD0_opsz48_w.svg"
+   id="svg4"
+   version="1.1"
+   width="48"
+   viewBox="0 -960 960 960"
+   height="48">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="24"
+     inkscape:cx="24"
+     inkscape:zoom="17.708333"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="786"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke-width:0.999999;fill:#ffffff"
+     id="path2"
+     d="m 694,-120 53.00001,-54 -93.00002,-93 -53.99998,53 q -20.00001,20 -19.50002,47 0.50002,27 19.50002,47 20.00001,19 47,19.5 Q 674,-100 694,-120 Z m 94,-95 54.00001,-53 q 19.99997,-20 19.49999,-47 -0.49999,-27 -20.5,-47 -20,-20 -46.28001,-20 -26.27997,0 -46.71997,20 l -53.00001,54 z m -52,137 q -36.99999,37 -88.99999,37 -52,0 -88.99999,-37 -37.00004,-37 -37.00004,-89 0,-52 37.00004,-89 l 147.99997,-148 q 37.00003,-37 89.00003,-37 52,0 88.99999,37 Q 921,-367 921,-315 q 0,52 -36.99999,89 z M 180,-180 v -600 z m 0,60 q -24.75,0 -42.375,-17.625 Q 120,-155.25 120,-180 v -600 q 0,-24.75 17.625,-42.375 Q 155.25,-840 180,-840 h 205 q 5,-35 32,-57.5 27,-22.5 63,-22.5 36,0 63.00001,22.5 Q 570,-875 575,-840 h 205.00001 q 24.74998,0 42.37498,17.625 Q 840,-804.75 840,-780 v 284 q -15.00001,-4 -30.00002,-5 -14.99996,-1 -29.99997,1 V -780 H 180 v 600 h 281 q -1,15 0.5,30 1.5,15 5.5,30 z m 300,-677 q 14,0 24.5,-10.5 Q 515,-818 515,-832 515,-846 504.5,-856.5 494,-867 480,-867 q -14,0 -24.5,10.5 -10.5,10.5 -10.5,24.5 0,14 10.5,24.5 10.5,10.5 24.5,10.5 z m -200,177 v -60 h 400.00001 v 60 z m 0,170 v -60 h 400.00001 v 49 q -3.00003,2 -6.5,5 -3.50001,3 -6.49999,6 z m 0,170 v -60 H 557.00001 L 515,-298 q -5,5 -8.5,9 -3.5,4 -7.5,9 z" />
+</svg>

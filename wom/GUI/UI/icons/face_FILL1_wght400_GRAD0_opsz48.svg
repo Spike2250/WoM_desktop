@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="face_FILL1_wght400_GRAD0_opsz48.svg"
+   id="svg4"
+   version="1.1"
+   width="48"
+   viewBox="0 96 960 960"
+   height="48">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="24"
+     inkscape:cx="24"
+     inkscape:zoom="17.708333"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="705"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="fill:#ffffff"
+     id="path2"
+     d="M353.775 673Q331 673 315.5 657.275q-15.5-15.726-15.5-38.5Q300 596 315.725 580.5q15.726-15.5 38.5-15.5Q377 565 392.5 580.725q15.5 15.726 15.5 38.5Q408 642 392.275 657.5q-15.726 15.5-38.5 15.5Zm253 0Q584 673 568.5 657.275q-15.5-15.726-15.5-38.5Q553 596 568.725 580.5q15.726-15.5 38.5-15.5Q630 565 645.5 580.725q15.5 15.726 15.5 38.5Q661 642 645.275 657.5q-15.726 15.5-38.5 15.5ZM480 916q142.375 0 241.188-98.948Q820 718.105 820 575.535 820 550 816 525q-4-25-10-46-20 5-43.262 7-23.261 2-48.738 2-97.115 0-183.557-40Q444 408 383 334q-34 81-97.5 141.5T140 569v7q0 142.375 98.812 241.188Q337.625 916 480 916Zm0 60q-83 0-156-31.5T197 859q-54-54-85.5-127T80 576q0-83 31.5-156T197 293q54-54 127-85.5T480 176q83 0 156 31.5T763 293q54 54 85.5 127T880 576q0 83-31.5 156T763 859q-54 54-127 85.5T480 976Z" />
+</svg>

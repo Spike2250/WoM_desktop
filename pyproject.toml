@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "wom-desktop"
+version = "0.1.0"
+description = ""
+authors = ["Spike2250 <shilov.spike2250@yandex.ru>"]
+readme = "README.md"
+packages = [
+  { include = "wom" },
+]
+
+[tool.poetry.dependencies]
+python = ">= 3.11, < 3.13"
+docxtpl = "^0.16.8"
+boto3 = "^1.34.84"
+prettytable = "^3.10.0"
+numpy = "^1.26.4"
+python-dotenv = "^1.0.1"
+pyside6 = "^6.7.0"
+
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^7.0.0"
+pytest = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+app = "wom.scripts.start_app:main"

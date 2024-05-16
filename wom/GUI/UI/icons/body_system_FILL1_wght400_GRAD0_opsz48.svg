@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="body_system_FILL1_wght400_GRAD0_opsz48.svg"
+   id="svg4"
+   version="1.1"
+   width="48"
+   viewBox="0 96 960 960"
+   height="48">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="24"
+     inkscape:cx="24"
+     inkscape:zoom="17.708333"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="756"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke-width:1;fill:#ffffff"
+     id="path2"
+     d="m 324,816 80,-386 -101,43 v 93 H 242 V 433 l 192,-81 q 14,-6 29.5,-7.5 15.5,-1.5 30.5,1.5 17,3 29.5,11 12.5,8 20.5,20 l 42,66 q 26,41 67.5,72 41.5,31 69.5,31 v 60 Q 683,604 629,572.5 575,541 532,482 l -27,98 92,83 V 816 H 537 V 694 L 437,603 385,816 Z M 550,302 Q 520,302 498.5,280.5 477,259 477,229 477,199 498.5,177.5 520,156 550,156 q 30,0 51.5,21.5 Q 623,199 623,229 623,259 601.5,280.5 580,302 550,302 Z M 480,976 Q 398,976 325,944.5 252,913 197.5,858.5 143,804 111.5,731 80,658 80,576 80,458 141.5,363 203,268 302,218 l 27,54 q -85,42 -137,123 -52,81 -52,181 0,141 99.5,240.5 Q 339,916 480,916 622,916 721,816.5 820,717 820,576 h 60 q 0,82 -31.5,155 Q 817,804 763,858.5 709,913 636,944.5 563,976 480,976 Z" />
+</svg>

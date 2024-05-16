@@ -1,0 +1,15 @@
+poetry run pyside6-uic wom/GUI/UI/omr/omr_MainMenu.ui > wom/GUI/PY/omr/omr_MainMenu.py
+poetry run pyside6-uic wom/GUI/UI/omr/omr_PatientCard.ui > wom/GUI/PY/omr/omr_PatientCard.py
+poetry run pyside6-uic wom/GUI/UI/omr/omr_AddNewPatient.ui > wom/GUI/PY/omr/omr_AddNewPatient.py
+poetry run pyside6-uic wom/GUI/UI/omr/omr_Appointments.ui > wom/GUI/PY/omr/omr_Appointments.py
+poetry run pyside6-uic wom/GUI/UI/omr/omr_MDRK.ui > wom/GUI/PY/omr/omr_MDRK.py
+poetry run pyside6-uic wom/GUI/UI/omr/omr_Dynamic.ui > wom/GUI/PY/omr/omr_Dynamic.py
+
+
+
+python -m PyQt6.uic.pyuic -x omr_MainMenu.ui -o omr_MainMenu.py
+python -m PyQt6.uic.pyuic -x omr_PatientCard.ui -o omr_PatientCard.py
+python -m PyQt6.uic.pyuic -x omr_AddNewPatient.ui -o omr_AddNewPatient.py
+python -m PyQt6.uic.pyuic -x omr_Appointments.ui -o omr_Appointments.py
+python -m PyQt6.uic.pyuic -x omr_MDRK.ui -o omr_MDRK.py
+python -m PyQt6.uic.pyuic -x omr_Dynamic.ui -o omr_Dynamic.py

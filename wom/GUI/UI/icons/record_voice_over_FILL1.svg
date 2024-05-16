@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="record_voice_over_FILL1.svg"
+   id="svg4"
+   version="1.1"
+   width="48"
+   viewBox="0 96 960 960"
+   height="48">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="24"
+     inkscape:cx="24"
+     inkscape:zoom="17.708333"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="860"
+     inkscape:window-width="1270"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke-width:1;fill:#ffffff"
+     id="path2"
+     d="m 801.00002,750.99999 -50.00002,-50 q 48,-51 73.49998,-104.49999 Q 850,543 850,465 850,387 824.49998,333.5 799,280 751,229 l 50.00002,-50 Q 857.00001,237 888.5,305.5 920,374 920,465 q 0,91 -31.5,159.49999 -31.49999,68.50002 -87.49998,126.5 z M 662.00002,609 612,559 q 18,-20 28.00002,-42.5 9.99996,-22.5 9.99996,-51.5 0,-29 -9.99996,-51.5 Q 630,391 612,371 l 50.00002,-50 q 25.99999,28 41.99998,65.5 15.99998,37.5 15.99998,78.5 0,41 -15.99998,78.5 -15.99999,37.50001 -41.99998,65.5 z M 360,615.00002 q -66,0 -108,-42.00003 Q 210,531 210,465 q 0,-66 42,-108 42,-42 108,-42 66,0 108,42 41.99999,42 41.99999,108 0,66 -41.99999,107.99999 -42,42.00003 -108,42.00003 z M 40,936 v -93.99998 q 0,-38 19,-64.50004 19,-26.49999 49,-41.49999 Q 159,710 228.5,693.00001 298,675.99999 360,675.99999 q 62,0 131,17.00002 69.00001,16.99999 120.00001,42.99998 29.99999,15 49.5,41.49999 19.50001,26.50004 19.50001,64.50004 V 936 Z" />
+</svg>
