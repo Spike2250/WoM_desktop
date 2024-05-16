@@ -25,3 +25,10 @@ or
 ```ch
 poetry run app
 ```
+
+### ScreenShots
+![main_menu](https://i.postimg.cc/gLHxfJ5h/2024-05-16-15-20-34.png)
+![omr_main_menu](https://i.postimg.cc/dkdkjnj4/2024-05-16-15-21-41.png)
+![omr_patient_card](https://i.postimg.cc/fVLVrMv3/2024-05-16-15-22-45.png)
+![omr_icf](https://i.postimg.cc/6yB2Cr2f/2024-05-16-15-23-46.png)
+![bta_protocol](https://i.postimg.cc/tsSxqsgt/2024-05-16-15-25-01.png)
