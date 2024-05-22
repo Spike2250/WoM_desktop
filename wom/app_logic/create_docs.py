@@ -11,7 +11,6 @@ from wom.settings.paths import (
     CREATED_FILES_PATH_BTA_DAY,
     TEMPLATES_PATH_BTA,
 )
-from wom.settings.dep_omr import organisation as ORGS_DATA
 
 
 def list_created_docs(some_set):
@@ -72,9 +71,18 @@ def open_folder_with_files(d):
     os.startfile(Path(Path.cwd(), generate_path_to_new_file(d)))
 
 
+def define_org_data(hosp_type):
+    if hosp_type in ('БТ - круглосуточный', 'БТ - дневной'):
+        from wom.settings.dep_bta import organisation as ORG_DATA
+    else:
+        from wom.settings.dep_omr import organisation as ORG_DATA
+    return ORG_DATA
+
+
 def add_organisation_info(func):
     def inner(d, templates):
-        merged_d = {**d, **ORGS_DATA}
+        ORG_DATA = define_org_data(d['тип_стационара'])
+        merged_d = {**d, **ORG_DATA}
         func(merged_d, templates)
     return inner
 
